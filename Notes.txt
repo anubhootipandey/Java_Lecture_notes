@@ -1,0 +1,23 @@
+/*----------TYPE CASTING IN JAVA-----------*/
+Casting is a process of changing one type value to another type. In Java, we can cast one type of value to another type. It is known as type casting.
+Example :
+int x = 10;
+byte y = (byte)x;
+In Java, type casting is classified into two types,
+- Widening Casting(Implicit)
+    byte->short->int->long->float->double
+    -------------------------------->widening
+- Narrowing Casting(Explicitly done)
+    double->float->long->int->short->byte
+    -------------------------------->narrowing
+
+/*----------------JAVA LOOPS----------------*/
+Loop is designed to execute its block till the specified condition is true.
+Java provides mainly three loop based on the loop structure.
+1. for loop-The for loop is used for executing a part of the program repeatedly. When the number of execution is fixed then it is suggested to use for loop. 
+2. while loop-Like for loop, while loop is also used to execute code repeatedly. a control statement. It is used for iterating a part of the program several 
+   times. When the number of iteration is not fixed then while loop is used.
+3. do while loop-In Java, the do-while loop is used to execute statements again and again. This loop executes at least once because the loop is executed 
+   before the condition is checked. It means loop condition evaluates after executing of loop body.
+
+/*-NOTE--------The main difference between while and do-while loop is, in do while loop condition evaluates after executing the loop.------------*/
