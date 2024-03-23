@@ -58,3 +58,20 @@ present in the PrintStream class.
 Ans.Garbage Collection is done on heap memory to free the memory used by objects that don't have any reference. 
 Any object created in the heap space has global access and can be referenced from anywhere in the application.
 
+/*********************Object-Oriented Programming***************************/
+
+1.What are the Object Oriented Features supported by Java?
+Ans.Java is an object-oriented programming language and supports the following object-oriented features:-
+a-Encapsulation: Java allows encapsulation, which is the practice of hiding the implementation details of an object from 
+other objects. This is achieved through the use of access modifiers.
+b-Inheritance: Java supports inheritance, which allows a new class to be based on an existing class, inheriting its attributes and methods. 
+This enables coGe reuse and makes it easier to create new classes that have common properties with existing classes.
+c-Polymorphism: Java supports polymorphism, which allows objects of different classes to be treated as if they were 
+objects of a common superclass- This can be achieved through method overriding and method overloading,
+d-Abstraction: Java allows abstraction, which is the process of hiding complex implementation details and providing a 
+simplified interface for the user- This can be achieved through abstract classes and interfaces,
+e-Classes and Objects: Java is a class-based language, which means that it provides constructs for defining classes and creating 
+objects from those classes.
+
+
+ 
